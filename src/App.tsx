@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, useMemo, FC } from "react";
 import { Canvas } from '@react-three/fiber'
 import { OrbitControls, Float, Stars } from "@react-three/drei";
 import { DepthOfField, EffectComposer, Noise, Vignette, Scanline, BrightnessContrast  } from '@react-three/postprocessing'
-import { Perf } from 'r3f-perf'
+// import { Perf } from 'r3f-perf'
 
 import MusicPlayer from 'react-jinke-music-player'
 import 'react-jinke-music-player/assets/index.css'

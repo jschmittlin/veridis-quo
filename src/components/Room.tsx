@@ -1,7 +1,7 @@
 import { useGLTF } from '@react-three/drei'
 
 export function Room() {
-  const { nodes, materials } = useGLTF('/models/room.glb') as any;
+  const { nodes, materials } = useGLTF('/veridis-quo/models/room.glb') as any;
 
   return (
     <group rotation={[0, Math.PI, 0]} scale={[5, 5, 5]} dispose={null}>
@@ -130,4 +130,4 @@ export function Room() {
   )
 }
 
-useGLTF.preload('/models/room.glb');
+useGLTF.preload('/veridis-quo/models/room.glb');

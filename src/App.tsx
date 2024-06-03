@@ -100,8 +100,8 @@ const App: FC = () => {
   const [showModal, setShowModal] = useState<boolean>(true)
 
   const musicPlayerRef = useRef<any>();
-  const sfxin = useRef(new Audio('audios/sfxin.wav'))
-  const sfxout = useRef(new Audio('audios/sfxout.wav'))
+  const sfxin = useRef(new Audio('/veridis-quo/audios/sfxin.wav'))
+  const sfxout = useRef(new Audio('/veridis-quo/audios/sfxout.wav'))
 
   const musicList = useMemo(() => vinyls.map(vinyl => ({
     name: vinyl.name,
@@ -123,7 +123,7 @@ const App: FC = () => {
   useEffect(() => {
     const fetchVinyls = async () => {
       try  {
-        const response = await fetch('/vinyls.json')
+        const response = await fetch('/veridis-quo/vinyls.json')
         const data = await response.json()
 
         const processedVinyls: VinylProps[] = data.items.map((item: JsonProps) => {

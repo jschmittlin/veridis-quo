@@ -15,12 +15,12 @@ interface VinylProps {
 
 
 export const Vinyl: FC<VinylProps> = ({ name, isActive, originalPosition, originalRotation, stickerCover, onClick }) => {
-    const { nodes, materials } = useGLTF('/models/vinyl.glb') as unknown as { 
+    const { nodes, materials } = useGLTF('/veridis-quo/models/vinyl.glb') as unknown as { 
         nodes: { Vinyl: THREE.Mesh}
         materials: { sticker: THREE.MeshBasicMaterial }
     }
 
-    const texture = useTexture(stickerCover)
+    const texture = useTexture("/veridis-quo/" + stickerCover)
 
     const stickerMaterial = materials.sticker.clone();
     stickerMaterial.map = texture;
@@ -83,4 +83,4 @@ export const Vinyl: FC<VinylProps> = ({ name, isActive, originalPosition, origin
     )
 }
 
-useGLTF.preload('/models/vinyl.glb')
+useGLTF.preload('/veridis-quo/models/vinyl.glb')

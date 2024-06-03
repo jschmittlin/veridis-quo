@@ -1,7 +1,7 @@
 import { useGLTF } from '@react-three/drei'
 
 export function Turntable() {
-  const { scene } = useGLTF('/models/turntable.glb') as any;
+  const { scene } = useGLTF('/veridis-quo/models/turntable.glb') as any;
 
   return (
     <primitive 
@@ -15,4 +15,4 @@ export function Turntable() {
   );
 }
 
-useGLTF.preload('/models/turntable.glb');
+useGLTF.preload('/veridis-quo/models/turntable.glb');

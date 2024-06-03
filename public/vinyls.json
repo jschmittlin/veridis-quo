@@ -1,0 +1,185 @@
+{
+    "total": 15,
+    "items": [
+        {
+            "id": 1,
+            "fields": {
+                "key": 1,
+                "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+                "album": "Random Access Memories",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/Daft%20Punk%20-%20Essentials%20%282018%29/01%20-%20Get%20Lucky.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/da/5a/1cda5a7d-90ad-8643-efb2-7641afb13418/886443973442.jpg/296x296bb.webp",
+                "stickerCover": "/models/textures/get-lucky.png",
+                "position": "[-1, 2, -9]"
+            }
+        },
+        {
+            "id": 2,
+            "fields": {
+                "key": 2,
+                "name": "One More Time",
+                "album": "Discovery",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282001%29%20Daft%20Punk%20-%20Discovery/01%20-%20One%20More%20Time.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/7c/8e/5d7c8e84-9e75-0e06-8876-f98c13df1694/dj.mpyxowas.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/one-more-time.png",
+                "position": "[3, 9, 7]"
+            }
+        },
+        {
+            "id": 3,
+            "fields": {
+                "key": 3,
+                "name": "Instant Crush (feat. Julian Casablancas)",
+                "album": "Random Access Memories",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/Daft%20Punk%20-%20Random%20Access%20Memories/05%20Instant%20Crush.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/296x296bb.webp",
+                "stickerCover": "/models/textures/instant-crush.png",
+                "position": "[2, 10, 2]"
+            }
+        },
+        {
+            "id": 4,
+            "fields": {
+                "key": 4,
+                "name": "Around the World",
+                "album": "Homework",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%281997%29%20Daft%20Punk%20-%20Homework/07%20-%20Around%20The%20World.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/27/45/f7274539-94c6-c675-0711-67612106ca63/724389411751.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/around-the-world.png",
+                "position": "[5, 12, -3]"
+            }
+        },
+        {
+            "id": 5,
+            "fields": {
+                "key": 5,
+                "name": "Harder, Better, Faster, Stronger",
+                "album": "Discovery",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282001%29%20Daft%20Punk%20-%20Discovery/04%20-%20Harder%2C%20Better%2C%20Faster%2C%20Stronger.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3a/c4/6b/3ac46bce-4de9-8cf4-ff9e-e3ca92b5a42c/724389799958.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/harder-better-faster-stronger.png",
+                "position": "[5, 8, 2]"
+            }
+        },
+        {
+            "id": 6,
+            "fields": {
+                "key": 6,
+                "name": "Veridis Quo",
+                "album": "Discovery",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282001%29%20Daft%20Punk%20-%20Discovery/11%20-%20Veridis%20Quo.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9e/f3/19/9ef31946-26de-0a95-c771-30457c5c01ec/dj.huxlnxyy.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/veridis-quo.png",
+                "position": "[3, 10, -5]"
+            }
+        },
+        {
+            "id": 7,
+            "fields": {
+                "key": 7,
+                "name": "Something About Us",
+                "album": "Discovery",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282001%29%20Daft%20Punk%20-%20Discovery/09%20-%20Something%20About%20Us.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/23/ec/6f23ec98-cae2-e1c1-5c9d-7c8c7b26e298/724354764554.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/something-about-us.png",
+                "position": "[2, 8, -9]"
+            }
+        },
+        {
+            "id": 8,
+            "fields": {
+                "key": 8,
+                "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+                "album": "Random Access Memories",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/Daft%20Punk%20-%20Essentials%20%282018%29/10%20-%20Lose%20Yourself%20to%20Dance.mp3",
+                "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Daft_Punk_-_%22Lose_Yourself_to_Dance%22_%28Promotional_single%29.png",
+                "stickerCover": "/models/textures/lose-yourself-to-dance.png",
+                "position": "[-3, 2, 7]"
+            }
+        },
+        {
+            "id": 9,
+            "fields": {
+                "key": 9,
+                "name": "Aerodynamic",
+                "album": "Discovery",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282001%29%20Daft%20Punk%20-%20Discovery/02%20-%20Aerodynamic.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/47/a2/d3/47a2d396-ab28-3b38-cc3a-3faeed4e6fa0/0724389747652_1300x1300_300dpi.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/aerodynamic.png",
+                "position": "[2, 5, 8]"
+            }
+        },
+        {
+            "id": 10,
+            "fields": {
+                "key": 10,
+                "name": "Da Funk",
+                "album": "Homework",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%281997%29%20Daft%20Punk%20-%20Homework/04%20-%20Da%20Funk.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/01/31/7b/01317ba8-da22-b66b-9c9f-1f6d2fbfcf43/724389399554.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/da-funk.png",
+                "position": "[1, 5, -5]"
+            }
+        },
+        {
+            "id": 11,
+            "fields": {
+                "key": 11,
+                "name": "Technologic",
+                "album": "Human After All",
+                "musicSrc": "https://ia801907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282005%29%20Daft%20Punk%20-%20Human%20After%20All/09%20-%20Technologic.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/14/58/f7145844-e9b2-933a-8fa5-547d3eb15fac/0724387259652_1417x1417_300dpi.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/technologic.png",
+                "position": "[1, 6, 3]"
+            }
+        },
+        {
+            "id": 12,
+            "fields": {
+                "key": 12,
+                "name": "Robot Rock",
+                "album": "Human After All",
+                "musicSrc": "https://ia601907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282005%29%20Daft%20Punk%20-%20Human%20After%20All/03%20-%20Robot%20Rock.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/4c/79/e2/4c79e254-f596-6c75-6006-ab3881a3c0a5/0724386833051_1400x1400_300dpi.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/robot-rock.png",
+                "position": "[-3, 2, -4]"
+            }
+        },
+        {
+            "id": 13,
+            "fields": {
+                "key": 13,
+                "name": "Television Rules the Nation",
+                "album": "Human After All",
+                "musicSrc": "https://ia601907.us.archive.org/24/items/14-too-long/Daft%20Punk/01%20-%20Albums/%282005%29%20Daft%20Punk%20-%20Human%20After%20All/08%20-%20Television%20Rules%20The%20Nation.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/83/55/eb8355a8-bbf2-be7c-24a0-1794f18c6018/0724356356252_1401x1401_300dpi.tif/296x296bf.webp",
+                "stickerCover": "/models/textures/television-rules-the-nation.png",
+                "position": "[-4, 7, -3]"
+            }
+        },
+        {
+            "id": 14,
+            "fields": {
+                "key": 14,
+                "name": "Touch (feat. Paul Williams)",
+                "album": "Random Access Memories",
+                "musicSrc": "https://ia601907.us.archive.org/24/items/14-too-long/Daft%20Punk/Daft%20Punk%20-%20Random%20Access%20Memories/07%20Touch.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/296x296bb.webp",
+                "stickerCover": "/models/textures/touch.png",
+                "position": "[5, 2, 5]"
+            }
+        },
+        {
+            "id": 15,
+            "fields": {
+                "key": 15,
+                "name": "Horizon (Japan CD)",
+                "album": "Random Access Memories (10th Anniversary Edition)",
+                "musicSrc": "audios/horizon.mp3",
+                "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/f4/6a/68f46a46-fbf4-270b-067c-94c57fd23ada/196871050975.jpg/296x296bf.webp",
+                "stickerCover": "/models/textures/horizon.png",
+                "position": "[6, 3, -2]"
+            }
+        }
+    ]
+}

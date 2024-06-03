@@ -1,0 +1,208 @@
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0;
+    padding: 0
+}
+
+ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,hgroup,p,blockquote,figure,form,fieldset,input,legend,pre,abbr,button {
+    margin: 0;
+    padding: 0
+}
+
+pre,code,address,caption,th,figcaption {
+    font-size: 1em;
+    font-weight: normal;
+    font-style: normal
+}
+
+fieldset,iframe {
+    border: 0
+}
+
+caption,th {
+    text-align: left
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+main,summary,details {
+    display: block
+}
+
+audio,canvas,video,progress {
+    vertical-align: baseline
+}
+
+button {
+    background: none;
+    border: 0;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    line-height: inherit;
+    overflow: visible;
+    vertical-align: inherit
+}
+
+button:disabled {
+    cursor: default
+}
+
+:focus {
+    outline: 2px solid #0071E3;
+    outline-offset: 0px
+}
+
+:focus[data-focus-method="mouse"]:not(input):not(textarea):not(select),:focus[data-focus-method="touch"]:not(input):not(textarea):not(select) {
+    outline: none
+}
+
+::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+
+html {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 106.25%;
+}
+
+body {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: #000;
+    color: #f5f5f7;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased
+}
+
+:root {
+    --global-background-color: #272727;
+    --global-button-corner-radius: 28px;
+    --global-corner-radius: 12px;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--global-background-color);
+    user-select: none;
+}
+
+.typography-info-headline {
+    font-size: 14px;
+    line-height: 1.2353641176;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: Monospace;
+}
+
+.typography-info-button {
+    font-size: 16px;
+    line-height: 1.2353641176;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: Monospace;
+}
+
+.typography-effect-headline {
+    font-size: 14px;
+    line-height: 1.2353641176;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: Monospace;
+}
+
+.typography-music-headline {
+    font-size: 14px;
+    line-height: 1.2353641176;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: Monospace;
+}
+
+.modal-trigger-container {
+    align-items: center;
+    display: flex;
+    width: 40px;
+    height: 20px;
+    border-radius: var(--global-button-corner-radius);
+    transition: linear 250ms background-color
+}
+
+.info-modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    transform: translate(-50%, -50%);
+    border-radius: var(--global-corner-radius);
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.08), 0 0 0 8px rgba(0, 0, 0, 0.07);
+    text-align: center;
+    z-index: 1;
+}
+
+.info-modal-content p {
+    margin-bottom: 13px;
+    text-transform: uppercase;
+}
+
+.info-modal-button {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.56);
+    cursor: pointer;
+}
+
+.effect-modal-content {
+    padding-right: 10px;
+}
+
+.effect-modal-button {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    outline: none;
+    z-index: 1;
+}
+
+.effect-button-icon {
+    width: 16px;
+    height: 16px;
+    background-color: #f5f5f7;
+    border-radius: 100%;
+    transition: linear 250ms transform;
+}
+
+.music-modal-content {
+    position: absolute;
+    left: 15px;
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.music-modal-image {
+    width: 70px;
+    height: 70px;
+    margin-right: 10px;
+    background-size: cover;
+}
